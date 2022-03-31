@@ -1,0 +1,17 @@
+import React from 'react';
+import Intro from './components/Intro';
+import About from './components/About'
+
+// Inside our App component, we have a return method that contains all the JSX we want to render to the screen.
+// In this example, we have a parent `div` that references the Welcome component that we imported at the top.
+export default function App() {
+  return (
+    <div>
+      <Intro />
+      <About />
+    </div>
+  );
+}
+
+
+
