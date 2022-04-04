@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/sw-react-portfolio/static/css/main.5b7ad13f.css",
-    "main.js": "/sw-react-portfolio/static/js/main.9bd038a0.js",
+    "main.css": "/sw-react-portfolio/static/css/main.41f07694.css",
+    "main.js": "/sw-react-portfolio/static/js/main.69aeb62e.js",
     "static/js/787.2dd6baeb.chunk.js": "/sw-react-portfolio/static/js/787.2dd6baeb.chunk.js",
     "static/media/myAvatarWhiteShirt.png": "/sw-react-portfolio/static/media/myAvatarWhiteShirt.ae166fbfcb2886c08772.png",
+    "static/media/ShifraWagshallResuma.pdf": "/sw-react-portfolio/static/media/ShifraWagshallResuma.dcf1ae21044d6394f194.pdf",
     "index.html": "/sw-react-portfolio/index.html",
-    "main.5b7ad13f.css.map": "/sw-react-portfolio/static/css/main.5b7ad13f.css.map",
-    "main.9bd038a0.js.map": "/sw-react-portfolio/static/js/main.9bd038a0.js.map",
+    "main.41f07694.css.map": "/sw-react-portfolio/static/css/main.41f07694.css.map",
+    "main.69aeb62e.js.map": "/sw-react-portfolio/static/js/main.69aeb62e.js.map",
     "787.2dd6baeb.chunk.js.map": "/sw-react-portfolio/static/js/787.2dd6baeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b7ad13f.css",
-    "static/js/main.9bd038a0.js"
+    "static/css/main.41f07694.css",
+    "static/js/main.69aeb62e.js"
   ]
 }
