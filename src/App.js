@@ -18,20 +18,13 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
     <Router>
       <Header />
       <Switch>
-      {/* <Route
-                exact
-                path="/"
-                render={() => {
-                    return (
-                      <Redirect to="/home" /> 
-                    )
-                }}
-              /> */}
+      
+               <Route exact path="/" component={About} />
         <Route exact path="/Intro" component={Intro} />
         <Route exact path="/About" component={About} />
         <Route exact path="/Contact" component={Contact} />
-        <Route exact path="/Portfolio" component={ProductList} />
-        {/* <Redirect to='/Intro' /> */}
+        <Route exact path="/Work" component={ProductList} />
+       
       </Switch>
       <Footer />
 

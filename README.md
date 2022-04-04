@@ -1,3 +1,45 @@
+# sw react portfolio
+
+  ## Description
+    This is a personal protfolio made using react. 
+  ## Table of Contents
+    * [Installation](#installation)
+    * [Usage](#usage)
+    * [License](#license)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
+  
+  ## Installation 
+    To install necessary dependencies, run the following command: 
+    npm i
+
+   
+  ## Usage
+    npm run start 
+
+  ## License
+    
+    This project is licensed under the following license: MIT
+
+  ## Contributing 
+   To contributr I can be reached through GitHub
+
+  ## Tests 
+    To run tests, run the following command:
+    N/A
+
+  ## Questions 
+    For any questions the owner of this repo can be contacted through thier GitHub:swagshall 
+
+
+  ## Images 
+  <img src="src/assets/reactport.png" alt="screenshot 1">
+ 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
