@@ -9,10 +9,10 @@ const Footer = () => (
   <footer className="footer">
     <div >
 
-      <a href="https://github.com/swagshall" target="_blank">
+      <a href="https://github.com/swagshall" target="_blank" className='icons'>
       <BsGithub></BsGithub>
       </a>
-      <a href="https://www.linkedin.com/in/shifrawagshall/" target="_blank">
+      <a href="https://www.linkedin.com/in/shifrawagshall/" target="_blank" className='icons'>
       <BsLinkedin></BsLinkedin>
       </a>
     </div>

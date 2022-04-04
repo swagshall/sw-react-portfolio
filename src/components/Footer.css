@@ -2,7 +2,15 @@
     /* background-color: #30D5C8; */
     border-top:3px solid black;
     width: 100%;
+    height: min-content;
     bottom: 0;
     color: black;
     font-size: 25px;
+   }
+
+   .icons{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    margin-left: 50%;
    }
